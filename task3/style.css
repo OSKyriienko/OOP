@@ -1,0 +1,20 @@
+form#form {
+	width: 850px;
+	margin-bottom: 50px;
+}
+input {
+	width: 100px;
+}
+
+input#btnSave {
+	float: right;
+}
+
+#table, th, td {
+	border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,td {
+	padding: 10px;
+}
